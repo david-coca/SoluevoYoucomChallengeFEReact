@@ -14,7 +14,7 @@ Precisamos de uma aplicação web que vai exibir uma lista de produtos para que 
  - - definir 30s de SSG do nextjs; 
  - - Interface produto deve conter: {id, name, imageURL, listPrice, salePrice}
 
-**Requisitos de negócio OBRIGATÓRIOS**  
+**Requisitos de técnicos OBRIGATÓRIOS**  
  - Usar o framework NextJS;
  - Typescript;
  - Versionar o código na sua branch `feature/seu-usuario-github`;
