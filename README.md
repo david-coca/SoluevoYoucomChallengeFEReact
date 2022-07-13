@@ -1,4 +1,4 @@
-# SoluevoYoucomChallengeFEReact
+# SoluevoYCChallengeFEReact
 O objetivo do desafio abaixo é criar uma aplicação Frontend WEB com React 
 
 O desafio se divide em 2 seções: **Obrigatório e Desejado**. Esperamos que você conclua todas as tarefas da seção **Obrigatório**. Na seção **Desejado** quanto mais itens você concluir mais felizes vamos ficar :)
