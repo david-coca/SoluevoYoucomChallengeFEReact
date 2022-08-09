@@ -6,8 +6,9 @@ function Main ({products}: MainProps) {
 
   return (
         <div className={styles.container}>
+          <h5>Produtos em Desta</h5>
+        <div className={styles.cardContainer}>
           {products && products.map((product, index) => {
-          
             return (
               <div key={index}>
                 <div className={styles.content}>
@@ -32,9 +33,11 @@ function Main ({products}: MainProps) {
                     </button>
                   </div> 
                 </div>
+                
               </div>
             )
           })}
+          </div>
         </div>
       )
 }
