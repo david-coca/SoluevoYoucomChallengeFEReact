@@ -6,7 +6,7 @@ interface ProductsProps {
   id: number;
   name: string;
   favorite: boolean;
-  ImageURL: string;
+  imageURL: string;
   listPrice: string;
   salePrice: string;
 } 

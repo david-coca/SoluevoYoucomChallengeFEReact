@@ -19,7 +19,7 @@ export async function getStaticProps() {
       id: 1,
       name: 'Iphone 12G',
       favorite: true,
-      imageURL: 'https://images-americanas.b2w.io/produtos/01/00/img/3591020/9/3591020951_1GG.jpg',
+      imageURL: 'https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12_new-design_10132020_big.jpg.large.jpg',
       listPrice: '1500,00',
       salePrice: '1350,00'
     },
@@ -27,7 +27,7 @@ export async function getStaticProps() {
       id: 2,
       name: 'Iphone 12G',
       favorite: true,
-      imageURL: 'https://i.zst.com.br/thumbs/12/1f/39/-522504470.jpg',
+      imageURL: 'https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12_new-design_10132020_big.jpg.large.jpg',
       listPrice: '1500,00',
       salePrice: '1350,00'
     },
@@ -35,7 +35,7 @@ export async function getStaticProps() {
       id: 3,
       name: 'Iphone 12G',
       favorite: false,
-      imageURL: 'https://imgs.pontofrio.com.br/1518706150/1xg.jpg?imwidth=292',
+      imageURL: 'https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12_new-design_10132020_big.jpg.large.jpg',
       listPrice: '1500,00',
       salePrice: '1350,00',
     }
